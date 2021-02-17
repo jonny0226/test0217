@@ -39,6 +39,7 @@ public class Test01 {
         System.out.println(arr[0]);// 200
 
         System.out.println("happy new year!");
+        System.out.println("first change");
 
         System.out.println(Arrays.toString(arr));
 
