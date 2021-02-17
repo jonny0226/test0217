@@ -38,6 +38,8 @@ public class Test01 {
         change(arr);
         System.out.println(arr[0]);// 200
 
+        System.out.println("happy new year!");
+
         System.out.println(Arrays.toString(arr));
 
 
